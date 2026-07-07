@@ -9,7 +9,7 @@ Professional with 6 years of experience in laboratory analysis, developing stron
 ## 🚀 Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,git,vscode"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql, os reportorios a abrir quansqlite,git,vscode"/>
 </p>
 
 <p align="left">
@@ -51,7 +51,7 @@ Professional with 6 years of experience in laboratory analysis, developing stron
 
 # 📂 Featured Projects
 
-## 🏎️ F1 Streamlit Dashboard
+## 🏎️ [F1 Streamlit Dashboard](https://github.com/ufylva2/F1-Streamlit-Dashboard)
 
 Interactive Formula 1 analytics dashboard developed with **Python** and **Streamlit**.
 
@@ -66,13 +66,13 @@ Interactive Formula 1 analytics dashboard developed with **Python** and **Stream
 
 **Technologies**
 
-Python • Streamlit • Pandas • NumPy • FastF1 API
+Python • Streamlit • Pandas • NumPy 
 
 ---
 
 ## 📱 Information Management System
 
-Complete information management system developed using **Python**, **SQL** and **SQLite**.
+Complete information management system developed using **Python**, **SQL**.
 
 ### Features
 
@@ -86,7 +86,7 @@ Complete information management system developed using **Python**, **SQL** and *
 
 **Technologies**
 
-Python • SQL • SQLite • Streamlit
+Python • SQL • Streamlit • Numpy • Sklearn • Seaborn • Matplotlib
 
 ---
 
