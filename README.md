@@ -9,9 +9,8 @@ Professional with 6 years of experience in laboratory analysis, developing stron
 ## 🚀 Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql, os reportorios a abrir quansqlite,git,vscode"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,git,vscode" />
 </p>
-
 <p align="left">
 
 <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
