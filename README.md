@@ -89,7 +89,7 @@ Python • SQL • Streamlit • Numpy • Sklearn • Seaborn • Matplotlib
 
 ---
 
-## 📊 Product Analytics Platform
+## 📊 [Product Analytics Platform](https://github.com/ufylva2/webstore-etl-mysql)
 
 Application that imports data from an external API into a SQL database and automates reporting.
 
